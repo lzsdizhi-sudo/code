@@ -46,5 +46,10 @@ curl -s http://your-domain/api/public/cron_publish.php
 Cron表达式：`*/1 * * * *`（每分钟）
 
 ## License
-![演示图](images/ScreenShot_2026-01-19_100026_242.png)
+![演示图](image/ScreenShot_2026-01-19_100026_242.png)
+![演示图](image/ScreenShot_2026-01-19_100046_721.png)
+![演示图](image/ScreenShot_2026-01-19_100120_385.png)
+![演示图](image/ScreenShot_2026-01-19_100128_945.png)
+![演示图](image/ScreenShot_2026-01-19_100140_265.png)
+![演示图](image/ScreenShot_2026-01-19_100153_696.png)
 MIT
