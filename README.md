@@ -1,7 +1,7 @@
 # 六合彩彩票网站系统
 
 
-[联系我](https://t.me/@daji855)
+技术飞机号：@daji855
 
 
 基于 React + ThinkPHP 的彩票资讯与开奖查询平台。
